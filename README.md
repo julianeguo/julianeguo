@@ -10,14 +10,14 @@ I'm Juliane (aka Jinyi Guo), a sophomore CS major at Northwestern University
 Sample projects I made:
 * **NU Robotics Club's Drummer Robot:** Servo & control code for a humanoid drummer robot + a wip guitar robot (repo: NU CERAS)
 * **texty:** An AI web app that converts handwritten notes into typed text
-* **ASCII Art Generator** A full-stack web app that converts live webcam feed & images into ASCII art
+* **ASCII Art Generator:** A full-stack web app that converts live webcam feed & images into ASCII art
 * **NFR25 Dashboard:** Code & UI of an LCD dashboard for a Formula race car
-* ...
+* ...more in my repos!
 
 More about me:
-* I've been drawing and creating my whole life! I love making things
+* I've been drawing and creating my whole life! I love making things :)
 * I love singing - hear me perform with @aplatypus_band on instagram!
-* I enjoy nature
+* I enjoy nature ❀
 * I like to think I'm pretty funny :D
 <br/>
 Thanks for stopping by♪(･ω･)ﾉ
