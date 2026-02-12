@@ -1,10 +1,10 @@
 ## hello :D
 
 I'm Juliane (aka Jinyi Guo), a sophomore CS major at Northwestern University
-* **Full-stack:** React.js, Node.js, Flask
+* **Full-stack & Cloud:** React.js, Node.js, Flask, AWS
 * **AI/ML:** Machine Learning, OpenCV, NumPy, pandas, HuggingFace Transformers
 * **Embedded/Robotics:** Arduino, Teensy, Raspberry Pi, Microcontrollers, Real-Time Systems
-* **Languages:** Python, C++, C, JavaScript, HTML/CSS, Java, MATLAB; Exposure to Swift, C#, and R
+* **Languages:** Python, C++, C, JavaScript, SQL, HTML/CSS, Java, MATLAB; Exposure to Swift, C#, and R
 * **Human languages**: English & Mandarin (native/bilingual proficiency)
 
 Sample projects I made:
