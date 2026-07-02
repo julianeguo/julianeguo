@@ -1,23 +1,16 @@
-## hello :D
+## hi, I'm Jinyi Guo (Juliane) :-D
 
-I'm Juliane (aka Jinyi Guo), a sophomore CS major at Northwestern University
-* **Full-stack & Cloud:** React.js, Node.js, Flask, AWS
-* **AI/ML:** Machine Learning, OpenCV, NumPy, pandas, HuggingFace Transformers
-* **Embedded/Robotics:** Arduino, Teensy, Raspberry Pi, Microcontrollers, Real-Time Systems
-* **Languages:** Python, C++, C, JavaScript, SQL, HTML/CSS, Java, MATLAB; Exposure to Swift, C#, and R
-* **Human languages**: English & Mandarin (native/bilingual proficiency)
+**CS @ Northwestern** · I enjoy building AI/ML-powered full-stack software
 
-Sample projects I made:
-* **NU Robotics Club's Drummer Robot:** Servo & control code for a humanoid drummer robot + a wip guitar robot (repo: NU CERAS)
-* **texty:** An AI web app that converts handwritten notes into typed text
-* **ASCII Art Generator:** A full-stack web app that converts live webcam feed & images into ASCII art
-* **NFR25 Dashboard:** Code & UI of an LCD dashboard for a Formula race car
-* ...more in my repos!
+**Working with:** Python, JavaScript, C++ · React, Node, Flask, AWS · PyTorch, HuggingFace, OpenCV · Arduino, Teensy
 
-More about me:
-* I've been drawing and creating my whole life! I love making things :)
-* I love singing - hear me perform with @aplatypus_band on instagram!
-* I enjoy nature ❀
-* I like to think I'm pretty funny :D
-<br/>
-Thanks for stopping by♪(･ω･)ﾉ
+**Highlights:**
+- **PULSE** - a humanoid drummer robot controlled via MIDI signals
+- **AWS Song Recommender** - ML-powered song recommendations with KNN + Spotify API
+- **Safe RL for Robotic Manipulation** - CPO vs PPO for in-hand rotation at HAND ERC
+- **NFR25 Dashboard** - LCD dashboard for Northwestern Formula Racing's first functional EV
+
+Outside code: I draw, sing ([@aplatypus_band](https://www.instagram.com/aplatypus_band/)), and spend time outdoors
+
+[![Portfolio](https://img.shields.io/badge/portfolio-juliane.dev-ffb6c1?style=flat-square&labelColor=ffcc70)](https://juliane.dev)
+![visitors](https://komarev.com/ghpvc/?username=julianeguo&label=Profile+views&color=92e1e8&style=flat-square&base=20)
