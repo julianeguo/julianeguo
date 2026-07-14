@@ -12,5 +12,5 @@
 
 Outside code: I draw, sing ([@aplatypus_band](https://www.instagram.com/aplatypus_band/)), and spend time outdoors
 
-[![Portfolio](https://img.shields.io/badge/portfolio-juliane.dev-ffb6c1?style=flat-square&labelColor=ffcc70)](https://juliane.dev)
+[![check out my portfolio:](https://img.shields.io/badge/portfolio-juliane.dev-ffb6c1?style=flat-square&labelColor=ffcc70)](https://juliane.dev)
 ![visitors](https://komarev.com/ghpvc/?username=julianeguo&label=Profile+views&color=92e1e8&style=flat-square&base=10)
